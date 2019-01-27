@@ -4,127 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Alpha Sticker Pack",
-      "publisher": "Suhail",
-      "tray_image_file": "suh.png",
-      "publisher_email":"",
-      "publisher_website": "",
-      "privacy_policy_website": "",
-      "license_agreement_website": "",
-      "stickers": [
-        {
-          "image_file": "1.webp"
-
-        },
-        {
-          "image_file": "2.webp"
-
-        },
-        {
-          "image_file": "3.webp"
-
-        },
-        {
-          "image_file": "4.webp"
-
-        },
-        {
-          "image_file": "5.webp"
-
-        },
-        {
-          "image_file": "6.webp"
-
-        },
-        {
-          "image_file": "7.webp"
-
-        },
-        {
-          "image_file": "8.webp"
-
-        },
-        {
-          "image_file": "9.webp"
-
-        },
-        {
-          "image_file": "10.webp"
-
-        },
-        {
-          "image_file": "11.webp"
-
-        },
-        {
-          "image_file": "12.webp"
-
-        },
-        {
-          "image_file": "13.webp"
-
-        },
-        {
-          "image_file": "14.webp"
-
-        },
-        {
-          "image_file": "15.webp"
-
-        },
-        {
-          "image_file": "16.webp"
-
-        },
-        {
-          "image_file": "17.webp"
-
-        },
-        {
-          "image_file": "18.webp"
-
-        },
-        {
-          "image_file": "19.webp"
-
-        },
-        {
-          "image_file": "20.webp"
-
-        },
-        {
-          "image_file": "21.webp"
-
-        },
-        {
-          "image_file": "22.webp"
-
-        },
-        {
-          "image_file": "23.webp"
-
-        },
-        {
-          "image_file": "24.webp"
-
-        },
-        {
-          "image_file": "25.webp"
-
-        },
-        {
-          "image_file": "26.webp"
-
-        },
-        {
-          "image_file": "27.webp"
-
-        }
-      ]
-    },
-    {
-      "identifier": "2",
-      "name": "Alpha Sticker Pack 2",
+      "name": "Alpha PG-13",
       "publisher": "Suhail",
       "tray_image_file": "suh.png",
       "publisher_email":"",
@@ -154,6 +34,194 @@
         },
         {
           "image_file": "106.webp"
+
+        },
+        {
+          "image_file": "107.webp"
+
+        },
+        {
+          "image_file": "108.webp"
+
+        },
+        {
+          "image_file": "109.webp"
+
+        },
+        {
+          "image_file": "110.webp"
+
+        },
+        {
+          "image_file": "111.webp"
+
+        },
+        {
+          "image_file": "112.webp"
+
+        },
+        {
+          "image_file": "113.webp"
+
+        },
+        {
+          "image_file": "114.webp"
+
+        },
+        {
+          "image_file": "115.webp"
+
+        },
+        {
+          "image_file": "116.webp"
+
+        },
+        {
+          "image_file": "117.webp"
+
+        },
+        {
+          "image_file": "118.webp"
+
+        },
+        {
+          "image_file": "119.webp"
+
+        },
+        {
+          "image_file": "120.webp"
+
+        },
+        {
+          "image_file": "121.webp"
+
+        },
+        {
+          "image_file": "122.webp"
+
+        },
+        {
+          "image_file": "124.webp"
+
+        },
+        {
+          "image_file": "125.webp"
+
+        },
+        {
+          "image_file": "126.webp"
+
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Alpha PG-18",
+      "publisher": "Suhail",
+      "tray_image_file": "suh.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "201.webp"
+
+        },
+        {
+          "image_file": "202.webp"
+
+        },
+        {
+          "image_file": "203.webp"
+
+        },
+        {
+          "image_file": "204.webp"
+
+        },
+        {
+          "image_file": "205.webp"
+
+        },
+        {
+          "image_file": "206.webp"
+
+        },
+        {
+          "image_file": "207.webp"
+
+        },
+        {
+          "image_file": "208.webp"
+
+        },
+        {
+          "image_file": "209.webp"
+
+        },
+        {
+          "image_file": "210.webp"
+
+        },
+        {
+          "image_file": "211.webp"
+
+        },
+        {
+          "image_file": "212.webp"
+
+        },
+        {
+          "image_file": "213.webp"
+
+        },
+        {
+          "image_file": "214.webp"
+
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Alpha DARK",
+      "publisher": "Suhail",
+      "tray_image_file": "suh.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "301.webp"
+
+        },
+        {
+          "image_file": "302.webp"
+
+        },
+        {
+          "image_file": "303.webp"
+
+        },
+        {
+          "image_file": "304.webp"
+
+        },
+        {
+          "image_file": "305.webp"
+
+        },
+        {
+          "image_file": "306.webp"
+
+        },
+        {
+          "image_file": "307.webp"
+
+        },
+        {
+          "image_file": "308.webp"
 
         }
       ]
